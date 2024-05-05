@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630299631 source:c:\users\marzia\documents\new folder\animation\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<graphics.h>
+
